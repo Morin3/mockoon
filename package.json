@@ -62,7 +62,7 @@
     "documentation:desktop": "lerna run --stream --scope @mockoon/desktop documentation"
   },
   "devDependencies": {
-    "concurrently": "8.2.2",
+    "concurrently": "9.1.0",
     "dotenv": "16.4.5",
     "eslint-config-prettier": "9.1.0",
     "lerna": "6.6.2",
